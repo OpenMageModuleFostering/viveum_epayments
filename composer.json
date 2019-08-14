@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/viveum_ePayments",
+    "type": "magento-module",
+    "license": "OSL3",
+    "homepage": "",
+    "description": "The Official Viveum Extension",
+    "authors": [
+    {
+        "name": "Sebastian Ertner",
+        "email": "sebastian.ertner@netresearch.de"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
